@@ -69,6 +69,7 @@ public class Main {
         default:
             System.out.println("Número de mes inválido");
     }
-    input.close();
+   input.close();
   }
+  
 }
